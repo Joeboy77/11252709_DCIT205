@@ -1,0 +1,86 @@
+.welcome {
+    margin-top: 50px;
+}
+.welcome h2 {
+    color: #2C2A58;
+    line-height: 1.2em !important;
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+}
+.welcome p {
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: justify;
+    line-height: 1.7;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align-last: center;
+}
+.know{
+    font-size: 28px;
+    color: rgb(28, 28, 71);
+    text-align: center;
+}
+.org-img img, .redes-img img{
+    width: 481px;
+    height: 360px;
+    object-fit: cover;
+}
+.org , .redes{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.org-text h3, .redes-text h3{
+    color: #4E2A84;
+    line-height: 1.2em;
+    font-size: 24px;
+}
+.org-text{
+    margin-left: 50px;
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.redes-text  {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 70px;
+    line-height: 1.7;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+.the-future{
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.f-img img {
+    width: 480px;
+    height: 360px;
+    object-fit: cover;
+}
+.horizon {
+    text-align: justify;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.7;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.horizon-head{
+    font-size: 30px;
+    color: #4E2A84;
+    line-height: 1.2em;
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    margin-top: 50px;
+}
+
+
+
