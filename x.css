@@ -1,0 +1,49 @@
+.cs-x {
+    color: #4E2A84;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.what{
+    color: #4E2A84;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 80px;
+}
+.possi {
+    color: #342f2e;
+    line-height: 1.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 60px;
+    margin-right: 70px;
+}
+video {
+    width: 680px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+h3{
+    color: #716C6B;
+    line-height: 2.1rem;
+    font-size: 1.6rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 80px;
+}
+span{
+   color: #4E2A84;
+   text-align: left;
+   font-family: 'Times New Roman', Times, serif;
+   line-height: 1.55rem;
+   font-weight: 700;
+}
+.inner {
+    margin-left: 80px;
+    margin-right: 100px;
+    line-height: 1.7rem;
+}
