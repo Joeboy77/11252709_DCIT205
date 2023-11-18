@@ -1,0 +1,77 @@
+.aca-greet .ex {
+    color: #4E2A84;
+    line-height: 3.7rem;
+    font-size: 48px;
+    text-align: center;
+    font-weight: 400;
+}
+.aca-greet p {
+    line-height: 1.5;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.under{
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+.aca-text{
+    line-height: 1.7;
+    text-align: justify;
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.aca-text h3 {
+    color: #4E2A84;
+}
+.cs {
+    color: #4E2A84;
+    font-size: 20px;
+}
+.up {
+    text-align: center;
+    color: #4E2A84;
+    margin-top: 60px;
+}
+.gra-img img {
+    width: 509px;
+    height: 339px;
+    margin-left: 100px;
+}
+.graduate {
+    display: flex;
+    margin-left: 90px;
+    margin-right: 80px;
+    
+}
+.gra-text{
+    text-align: justify;
+    line-height: 1.7;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 60px;
+    
+}
+.ms{
+    color: #4E2A84;
+    font-size: 20px;
+}
+.short-courses img{
+    width: 509px;
+    height: 339px;
+    object-fit: cover;
+}
+.short-courses{
+    display: flex;
+    margin-left: 90px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+}
+.short-courses .aca-text{
+    margin-top: 0;
+}
