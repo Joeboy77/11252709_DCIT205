@@ -1,6 +1,4 @@
-body{
-    
-}
+
 header{
 width: 100%;
 height: 261.32px;
@@ -285,6 +283,9 @@ footer{
     color: #FFF;
     
 }
+footer a{
+    color: #FFF;
+}
 .foot{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -297,6 +298,7 @@ footer{
 }
 .add{
    margin-left: 80px;
+   
 }
 .pre{
     font-size: 20px;
@@ -341,6 +343,9 @@ footer{
 a[href="about.html"]{
     text-decoration: none;
     
+}
+a{
+    text-decoration: none;
 }
 
 
