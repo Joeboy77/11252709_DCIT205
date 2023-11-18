@@ -1,0 +1,55 @@
+.ex-main{
+    color: #4E2A84;
+    line-height: 3.7rem;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 70px;
+}
+.fac-research{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.fac-research img {
+    width: 559px;
+    height: 399px;
+    object-fit: cover;
+}
+.fac-research p {
+    text-align: justify;
+    line-height: 1.7;
+    font-size: 18px;
+    margin-right: 40px;
+    margin-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.research-areas {
+    line-height: 1.7;
+    text-align: justify;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align-last: left;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.labs {
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+.img-1{
+    width: 599px;
+    height: 309px;
+    object-fit: cover;
+}
+.paragraph{
+    text-align: justify;
+    line-height: 1.7;
+    color: #4E2A84;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
