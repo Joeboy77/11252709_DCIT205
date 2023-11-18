@@ -1,0 +1,69 @@
+.past-e {
+    font-size: 35px;
+    color: #4e2a84;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 60px;
+}
+.e-1 img{
+    width: 599px;
+    height: 409px;
+    object-fit: contain;
+}
+.e-1{
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.e-a-main h3{
+     font-size: 30px;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 700;
+     color: #4e2a84;
+     margin-left: 60px;
+}
+.sect {
+    line-height: 1.7;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 60px;
+    font-size: 18px;
+    text-align: justify;
+}
+.e-2 {
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+.sect-1{
+    line-height: 1.7;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 60px;
+    font-size: 18px;
+    text-align: justify;
+}
+.sect-1 h3 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #4e2a84;
+    margin-left: 60px;
+}
+.e-2 img {
+    width: 899px;
+    height: 409px;
+    object-fit: cover;
+}
+.no{
+    color: red;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.hr{
+    width: 800px;
+    margin-top: 60px;
+}
+
+
+
