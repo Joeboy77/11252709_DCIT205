@@ -1,0 +1,74 @@
+.main-people{
+    width: 800px;
+    border-left: 1px solid #cacaca;
+    margin-left: 200px;
+    border-right: 1px solid #cacaca;
+    box-shadow: 0 2px 10px;
+}
+.hod{
+    margin-left: 60px;
+    display: flex;
+    justify-content: center;
+    
+}
+.hod img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px;
+}
+.hod-txt{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}.name{
+    color: #4E2A84;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 0;
+}
+.title{
+    line-height: 1.7rem;
+    margin-bottom: 1.25em;
+    font-size: 18px;
+    color: #342f2e;
+    text-rendering: optimizeLegibility;
+}
+#ma-men{
+    margin-right: 88px;
+    margin-top: 20px;
+}
+#soli{
+    margin-right: 36px;
+    margin-top: 30px;
+}
+#dks{
+    margin-right: 120px;
+    margin-top: 30px;
+}
+#juli{
+    margin-right: 170px;
+    margin-top: 30px;
+}
+#ansong{
+    margin-right: 10px;
+    margin-top: 30px;
+}
+#matilda{
+    margin-right: 125px;
+    margin-top: 30px;
+}
+#jamal{
+    margin-right: 30px;
+    margin-top: 30px;
+}
+#prof{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#isaac{
+    margin-right: 55px;
+    margin-top: 30px;
+}
+
+
