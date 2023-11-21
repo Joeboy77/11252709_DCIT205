@@ -1,0 +1,23 @@
+.style{
+    color: #4E2A84;
+    font-size: 2rem;
+    line-height: 3rem;
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 150px;
+}
+.inco{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 150px;
+    text-align: left;
+    margin-right: 150px;
+    line-height: 1.7rem;
+}
+.ul li{
+    font-size: 18px !important;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.7rem;
+    font-weight: 100 !important;
+    margin-left: 150px;
+}
