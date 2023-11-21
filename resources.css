@@ -1,0 +1,65 @@
+.admin-para{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #4E2A84;
+    line-height: 3.7rem;
+    margin-left: 100px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+faculty{
+    margin-top: 40px;
+    text-decoration: none;
+    text-align: left;
+}
+.admin-faculty{
+    font-size: 38px;
+    line-height: 2rem;
+    color: #4E2A84;
+    margin-left: 200px;
+}
+
+span, .host{
+    font-size: 20px;
+    line-height: 1.7rem;
+    color: #4E2A84;
+    margin-left: 200px;
+}
+.handbook{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 18px;
+}
+.span-txt{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 0;
+    line-height: 1.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: justify;
+}
+.ad{
+    text-decoration: underline;
+    font-weight: 500;
+}
+.appoint{
+    line-height: 1.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 18px;
+    text-align: justify;
+}
+.host-main{
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 1.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.host{
+    margin-left: auto;
+    text-align: justify;
+}
