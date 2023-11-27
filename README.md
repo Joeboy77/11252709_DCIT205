@@ -1,4 +1,5 @@
 INTRODUCTION
+
 Greetings from my website! This project acts as a thorough how-to manual for copying and configuring the website locally. It outlines the goal of the website and offers comprehensive advice on how to get started.
 The website consists of various images and colors that are unique. The contents of each page of the website were planned and designed by the developer 
 
