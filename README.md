@@ -4,10 +4,12 @@ Greetings from my website! This project acts as a thorough how-to manual for cop
 The website consists of various images and colors that are unique. The contents of each page of the website were planned and designed by the developer 
 
 About the Developer
+
 Name: Joseph Acheampong
 Student ID: 11252709
 
 PURPOSE
+
 This website is meant to function as the department of computer science's new webpage. In order to demonstrate my proficiency with git and frontend development as well. It gives me a stage on which to showcase my abilities and establish a rapport with possible customers.
 
 The website includes eleven (11) pages, namely:
